@@ -4,7 +4,7 @@
 
 The problem is drawn from the analysis of data by studying specific structural features of three related variations of Iris flowers.
 
-![Iris](../data/iris.jpg)
+![Iris](/data/iris.png)
 
 ### References ###
 
@@ -43,17 +43,19 @@ The four features include:
 Missing Attribute Values: None
 
 Summary Statistics:
-   SepalLength      SepalWidth     PetalLength      PetalWidth   
- Min.   :4.300   Min.   :2.000   Min.   :1.000   Min.   :0.100  
- 1st Qu.:5.100   1st Qu.:2.800   1st Qu.:1.600   1st Qu.:0.300  
- Median :5.800   Median :3.000   Median :4.350   Median :1.300  
- Mean   :5.843   Mean   :3.054   Mean   :3.759   Mean   :1.199  
- 3rd Qu.:6.400   3rd Qu.:3.300   3rd Qu.:5.100   3rd Qu.:1.800  
- Max.   :7.900   Max.   :4.400   Max.   :6.900   Max.   :2.500  
-          IrisSpecies
- Iris-setosa    :50  
- Iris-versicolor:50  
- Iris-virginica :50
+
+|   SepalLength |    SepalWidth |   PetalLength |    PetalWidth|
+|---------------|---------------|---------------|--------------|
+| Min.   :4.300 | Min.   :2.000 | Min.   :1.000 | Min.   :0.100|
+| 1st Qu.:5.100 | 1st Qu.:2.800 | 1st Qu.:1.600 | 1st Qu.:0.300|
+| Median :5.800 | Median :3.000 | Median :4.350 | Median :1.300|
+| Mean   :5.843 | Mean   :3.054 | Mean   :3.759 | Mean   :1.199|
+| 3rd Qu.:6.400 | 3rd Qu.:3.300 | 3rd Qu.:5.100 | 3rd Qu.:1.800|
+| Max.   :7.900 | Max.   :4.400 | Max.   :6.900 | Max.   :2.500|
+|          IrisSpecies|
+| Iris-setosa    :50|
+| Iris-versicolor:50| 
+| Iris-virginica :50|
 
 Class Distribution: 33.3% for each of 3 classes.
     
