@@ -2,7 +2,7 @@
 
 ## Domain ##
 
-The problem is drawn from the analysis of data by studying specific structural features of three related variations of Iris flowers.
+The problem is drawn from the analysis of data when studying specific structural features of three related variations of Iris flowers.
 
 ![Iris](/data/iris.png)
 
