@@ -30,15 +30,15 @@ As each element will be stored in an R, the size of the dataframe will be approx
 Number of Attributes: 4 numeric, predictive attributes and the class
 
 The 3 Classes in Iris dataset are:
-    * Iris Setosa
-    * Iris Versicolor
-    * Iris Virginica
+ * Iris Setosa
+ * Iris Versicolor
+ * Iris Virginica
 
 The four features include:
-    * sepal length in cm
-    * sepal width in cm
-    * petal length in cm
-    * petal width in cm
+* sepal length in cm
+* sepal width in cm
+* petal length in cm
+* petal width in cm
     
 Missing Attribute Values: None
 
